@@ -11,3 +11,11 @@ Additionally, you can search for games by name by using the search bar and click
 In the project directory, run:
 
 ### `npm start`
+
+## Screenshots
+
+### Front page
+![Front page](pictures/frontpage.PNG)
+
+### Search page
+![Search page](pictures/searchpage.PNG)
